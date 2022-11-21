@@ -4,7 +4,8 @@
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center" style="width: 100%">
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunbharathi03&layout=compact&hide=html" alt="" /></p>
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunbharathi03&layout=compact&hide=html" alt=""   />
+  </p>
 </div>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Arunbharathi03&show_icons=true" alt=""  /></p>
